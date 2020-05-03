@@ -1,5 +1,4 @@
 ##### ##### ##### ##### ##### ##### ##### ##### ##### #####  
-# golf2.txt  - by Gianluca Mastrantonio
 #              DSMS 2019 Esempio Golfers 2 tratto da  
 # McClave JT., Benson PG. e Sincich T. (2014). Statistics for Business and
 # Economics., Pearson Education Limited.   
